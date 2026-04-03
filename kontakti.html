@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакти | Дипломен проект</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="site-header">
+        <div class="container">
+            <div class="logo">
+              <img src="logo.png" alt="Лого">
+            </div>
+
+            <nav>
+                <ul class="nav-list">
+                    <li><a href="index.html">Начало</a></li>
+                    <li><a href="grafiki.html">Графики</a></li>
+                    <li><a class="active" href="kontakti.html">Контакти</a></li>
+                    <li><a href="avtor.html">Автор на сайта</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="section">
+        <div class="container">
+            <h1>Контакти</h1>
+
+            <p><strong>Адрес:</strong> ул. „Шипка“ 9А, гр. Ихтиман</p>
+            <p><strong>Телефон:</strong> 0886016631</p>
+            <p><strong>Имейл:</strong> vladi.hristov16@gmail.com</p>
+
+          <div class="contact-form">
+        <h2>Изпрати съобщение</h2>
+
+        <form action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="df438a09-2b19-4444-b13f-c0fda5cb17eb">
+
+            <label for="name">Име и фамилия:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email-адрес:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="phone">Телефон:</label>
+            <input type="tel" id="phone" name="phone" required>
+
+            <label for="message">Съобщение:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+			
+            <button type="submit" class="btn">Изпрати</button>
+        </form>
+    </div>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>© 2026 Владимир Христов | Дипломен проект</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-75.714286"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4622">
+      <g
+         transform="translate(-3.7797619,-48.380952)"
+         id="g4540">
+        <g
+           aria-label="V"
+           transform="matrix(2.5041764,0,0,5.1254232,-452.88793,-2037.0173)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot4518">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 221.12109,415.64556 -10.58593,29.08203 h -5.15625 l -10.58594,-29.08203 h 4.14062 l 9.1211,25.58593 9.12109,-25.58593 z"
+             id="path4533" />
+        </g>
+        <g
+           aria-label="H"
+           transform="scale(0.73636868,1.3580154)"
+           style="font-style:normal;font-weight:normal;font-size:150.9680481px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77420092"
+           id="text4528">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 230.11467,178.06535 h -14.59555 v -53.73813 h -54.77014 v 53.73813 H 146.15343 V 68.303916 h 14.59555 V 111.3534 h 54.77014 V 68.303916 h 14.59555 z"
+             style="stroke-width:3.77420092"
+             id="path4530" />
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(0.51951498,0,0,0.67919004,11.457872,-72.694092)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4542"
+         xml:space="preserve"><flowRegion
+           style="fill:#000000;fill-opacity:1"
+           id="flowRegion4544"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="276.80539"
+             x="25.714285"
+             height="314.28571"
+             width="748.57141"
+             id="rect4546" /></flowRegion><flowPara
+           id="flowPara4548">Vladimir Hristov</flowPara></flowRoot>      <rect
+         y="117.08334"
+         x="12.095238"
+         height="26.458332"
+         width="173.86905"
+         id="rect4550"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.33346868;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.51951498,0,0,0.65480142,12.045729,-66.595633)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4542-6"
+         xml:space="preserve"><flowRegion
+           style="fill:#000000;fill-opacity:1"
+           id="flowRegion4544-9"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="276.80539"
+             x="25.714285"
+             height="314.28571"
+             width="748.57141"
+             id="rect4546-9" /></flowRegion><flowPara
+           id="flowPara4548-7">Vladimir Hristov</flowPara></flowRoot>    </g>
+  </g>
+</svg>
